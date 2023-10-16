@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VS\\BrainFEmulator\\BrainFEmulator.csproj",
+      "projectUniqueName": "E:\\VS\\Git\\BrainFuck.NET\\BrainFEmulator\\BrainFEmulator.csproj",
       "projectName": "BrainFEmulator",
-      "projectPath": "E:\\VS\\BrainFEmulator\\BrainFEmulator.csproj",
+      "projectPath": "E:\\VS\\Git\\BrainFuck.NET\\BrainFEmulator\\BrainFEmulator.csproj",
       "packagesPath": "C:\\Users\\DM_Q\\.nuget\\packages\\",
-      "outputPath": "E:\\VS\\BrainFEmulator\\obj\\",
+      "outputPath": "E:\\VS\\Git\\BrainFuck.NET\\BrainFEmulator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
