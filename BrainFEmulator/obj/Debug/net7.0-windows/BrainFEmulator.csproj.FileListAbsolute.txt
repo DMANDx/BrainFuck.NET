@@ -1,0 +1,17 @@
+E:\VS\BrainFEmulator\bin\Debug\net7.0-windows\BrainFEmulator.exe
+E:\VS\BrainFEmulator\bin\Debug\net7.0-windows\BrainFEmulator.deps.json
+E:\VS\BrainFEmulator\bin\Debug\net7.0-windows\BrainFEmulator.runtimeconfig.json
+E:\VS\BrainFEmulator\bin\Debug\net7.0-windows\BrainFEmulator.dll
+E:\VS\BrainFEmulator\bin\Debug\net7.0-windows\BrainFEmulator.pdb
+E:\VS\BrainFEmulator\obj\Debug\net7.0-windows\BrainFEmulator.csproj.AssemblyReference.cache
+E:\VS\BrainFEmulator\obj\Debug\net7.0-windows\BrainFEmulator.Form1.resources
+E:\VS\BrainFEmulator\obj\Debug\net7.0-windows\BrainFEmulator.csproj.GenerateResource.cache
+E:\VS\BrainFEmulator\obj\Debug\net7.0-windows\BrainFEmulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\BrainFEmulator\obj\Debug\net7.0-windows\BrainFEmulator.AssemblyInfoInputs.cache
+E:\VS\BrainFEmulator\obj\Debug\net7.0-windows\BrainFEmulator.AssemblyInfo.cs
+E:\VS\BrainFEmulator\obj\Debug\net7.0-windows\BrainFEmulator.csproj.CoreCompileInputs.cache
+E:\VS\BrainFEmulator\obj\Debug\net7.0-windows\BrainFEmulator.dll
+E:\VS\BrainFEmulator\obj\Debug\net7.0-windows\refint\BrainFEmulator.dll
+E:\VS\BrainFEmulator\obj\Debug\net7.0-windows\BrainFEmulator.pdb
+E:\VS\BrainFEmulator\obj\Debug\net7.0-windows\BrainFEmulator.genruntimeconfig.cache
+E:\VS\BrainFEmulator\obj\Debug\net7.0-windows\ref\BrainFEmulator.dll
