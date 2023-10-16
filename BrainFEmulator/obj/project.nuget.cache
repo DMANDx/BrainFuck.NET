@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XI+MbTwOEz4n+bunyD5KxxsjUIQgnvB5I2WkLOnT6ZotKHiygeOx4mxCO70yjOltvwWghEde+zpEHfMNGIkazA==",
+  "dgSpecHash": "qzNV/HRGJ2ZHIbeARZidyEIHERdXyvGjboLki2pt8xcQcWr/ZjwEPGmYITAokZyB+O/JoxrNydbc1+iTH2jOug==",
   "success": true,
-  "projectFilePath": "E:\\VS\\BrainFEmulator\\BrainFEmulator.csproj",
+  "projectFilePath": "E:\\VS\\Git\\BrainFuck.NET\\BrainFEmulator\\BrainFEmulator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
