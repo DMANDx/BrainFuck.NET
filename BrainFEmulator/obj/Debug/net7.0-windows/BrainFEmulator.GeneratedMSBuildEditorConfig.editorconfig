@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BrainFEmulator
-build_property.ProjectDir = E:\VS\BrainFEmulator\
+build_property.ProjectDir = E:\VS\Git\BrainFuck.NET\BrainFEmulator\
