@@ -40,8 +40,7 @@ namespace BrainFEmulator
                         {
                             N++;
                             if (N > Mem.GetUpperBound(0))
-                                Array.Resize(ref Mem, Mem.Length + 1);
-                            //Array.Resize(ref Mem, Mem.Length + 1);
+                                Array.Resize(ref Mem, Mem.Length + 1);                            
                             break;
                         }
 
