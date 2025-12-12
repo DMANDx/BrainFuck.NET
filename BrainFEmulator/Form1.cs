@@ -21,7 +21,6 @@ namespace BrainFEmulator
 
         private void Brainfuck(string Code)
         {
-
             int[] Mem = new int[1];
 
             int J; int F; int N = 0;
@@ -37,7 +36,6 @@ namespace BrainFEmulator
                                 Array.Resize(ref Mem, Mem.Length + 1);                            
                             break;
                         }
-
                     case "<":
                         {
                             N--;
@@ -46,35 +44,29 @@ namespace BrainFEmulator
                                 Console(Environment.NewLine + "Указатель вне диапазона!" + Environment.NewLine + "Текущая позиция символа: " + I + 1);
                                 return;
                             }
-
                             break;
                         }
-
                     case "+":
                         {
                             Mem[N] = Mem[N] + 1;
                             break;
                         }
-
                     case "-":
                         {
                             Mem[N] = Mem[N] - 1;
                             break;
                         }
-
                     case ".":
                         {
                             Console(Char.ConvertFromUtf32(Mem[N]).ToString());
                             this.Text += Char.ConvertFromUtf32(123).ToString();
                             break;
                         }
-
                     case ",":
                         {
                             Mem[N] = (int)Conversion.Val(Interaction.InputBox("Введите значение ячейки [" + N + "] (0-255)", "Brainfuck"));
                             break;
                         }
-
                     case "[":
                         {
                             if (Mem[N] == 0)
@@ -89,10 +81,8 @@ namespace BrainFEmulator
                                         F--;
                                 }
                             }
-
                             break;
                         }
-
                     case "]":
                         {
                             if (Mem[N] > 0)
@@ -108,7 +98,6 @@ namespace BrainFEmulator
                                 }
                                 I--;
                             }
-
                             break;
                         }
                 }
